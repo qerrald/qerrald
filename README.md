@@ -60,25 +60,25 @@ Driven by curiosity and a passion for technology, I enjoy learning new things, e
 
 ### 🚀 Featured Projects
 
-**1. Hydroponic Nutrient Monitoring System**
+**1. Hydroponic Nutrient Monitoring System 🪴**
 
 Designing and developing a hydroponic nutrient monitoring system using a TDS sensor integrated with ESP32. The system features automatic AB Mix fertilizer dosing based on TDS readings and web-based data integration.
 
 `ESP32` `Arduino IDE` `TDS Sensor` `Relay Module` `Water Pump`
 
-**2. TK Telkom Mojokerto Student Monitoring**
+**2. TK Telkom Mojokerto Student Monitoring 🏫**
 
 Developing a web-based application to help the school monitor students' development and manage learning portfolios. The platform supports structured student data management and information access for teachers, parents, and school administrators.
 
 `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
-**3. Soil Suitability Classification Using KNN**
+**3. Soil Suitability Classification Using KNN 🪏**
 
 Developing a machine learning model using K-Nearest Neighbors (KNN) to classify soil suitability based on pH, moisture, and temperature parameters.
 
 `Python` `Scikit-learn` `KNN`
 
-**4. SimBaRa — Kebab Ceria**
+**4. SimBaRa — Kebab Ceria 🌯**
 
 Designing an interactive application prototype to support business operations and transaction management, including order processing, queue management, payment tracking, and financial reporting.
 
