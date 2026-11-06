@@ -5,6 +5,7 @@
 
 </div>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Web_Development-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX_Design-00D9FF?style=for-the-badge&logo=figma&logoColor=black" />
@@ -15,6 +16,18 @@
 </div>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/gerrald-asher-baa7ab307/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/qerrald/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:halogerrald@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="./assets/animated-divider.gif" width="100%" />
 </p>
 
@@ -22,7 +35,7 @@
 
 ```javascript
 const gerrald = {
-    name: "Gerrald Asher",
+    name: "Gerrald Asher Kristiawan",
     role: "Information Technology Student",
     interests: [
         "Web Development",
@@ -71,7 +84,9 @@ Designing an interactive application prototype to support business operations an
 
 `Figma` `UI/UX Design` `Prototyping`
 
----
+<p align="center">
+  <img src="./assets/animated-divider.gif" width="100%" />
+</p>
 
 ### 🛠️ Technologies I've Explored
 
@@ -118,13 +133,21 @@ Designing an interactive application prototype to support business operations an
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,gitlab,windows,apple&theme=dark" />
 </p>
 
----
+<p align="center">
+  <img src="./assets/animated-divider.gif" width="100%" />
+</p>
 
 ### 📊 GitHub Statistics
 
+<!-- GITHUB STATISTICS -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qerrald&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00BFFF&hide_border=true" alt="Gerrald's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qerrald&layout=compact&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&hide_border=true" alt="Most Used Languages" />
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api?username=qerrald&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats" />
+
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=qerrald&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -137,22 +160,18 @@ Designing an interactive application prototype to support business operations an
   <img src="https://raw.githubusercontent.com/qerrald/qerrald/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
----
-
-### 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/gerrald-asher-baa7ab307/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/qerrald/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:halogerrald@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="./assets/animated-divider.gif" width="100%" />
 </p>
 
-<p align="center">
-  <i>Keep Learning • Keep Building • Keep Growing</i>
+### ✍️ Quotes
+
+<div align="center">
+
+<h3>Good software, like wine, takes time.</h3>
+
+<p>
+  <i>— Joel Spolsky</i>
 </p>
+
+</div>
