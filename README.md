@@ -1,7 +1,7 @@
 <<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00D4FF&height=250&section=header&text=Gerrald%20Asher%20Kristiawan&fontSize=70&fontColor=FFFFFF&desc=WEB%20DEVELOPMENT%20%7C%20NETWORKING%20%7C%20IOT&descSize=18&descAlignY=60&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00D4FF&height=250&section=header&text=Gerrald%20Asher%20Kristiawan&fontSize=50&fontColor=FFFFFF&desc=Web%20Development%20%7C%20UI/UX%20Design%20%7C%20Internet%20Of%20Things&descSize=12&descAlignY=60&fontAlignY=40" width="100%" />
 
 </div>
 
