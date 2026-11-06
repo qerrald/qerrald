@@ -1,7 +1,9 @@
-<!-- HEADER -->
+<<!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0077B6,100:00D4FF&height=250&section=header&text=Gerrald&fontSize=65&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Information%20Technology%20Student%20%7C%20Exploring%20Web%2C%20Networking%20%26%20IoT&descAlign=50&descAlignY=60&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00D4FF&height=250&section=header&text=Gerrald&fontSize=70&fontColor=FFFFFF&desc=WEB%20DEVELOPMENT%20%7C%20NETWORKING%20%7C%20IOT&descSize=18&descAlignY=60&fontAlignY=40" width="100%" />
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web_Development-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
