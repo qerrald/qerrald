@@ -13,7 +13,10 @@
 </p>
 
 </div>
----
+
+<p align="center">
+  <img src="./assets/animated-divider.gif" width="100%" />
+</p>
 
 ### 👨‍💻 About Me
 
@@ -37,6 +40,10 @@ const gerrald = {
 ```
 
 Driven by curiosity and a passion for technology, I enjoy learning new things, exploring creative ideas, and building solutions that make a difference.
+
+<p align="center">
+  <img src="assets/animated-divider.gif" width="100%" alt="Animated Divider" />
+</p>
 
 ### 🚀 Featured Projects
 
