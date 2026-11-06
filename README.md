@@ -1,12 +1,7 @@
-# Hi, I'm Gerrald! 👋
+<!-- HEADER -->
+<div align="center">
 
-<p align="center">
-  <img src="assets/pixel-avatar.png" width="180" alt="Gerrald Pixel Avatar" />
-</p>
-
-<h3 align="center">
-  Information Technology Student | Exploring Web Development, Networking & IoT
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0077B6,100:00D4FF&height=250&section=header&text=Gerrald&fontSize=65&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Information%20Technology%20Student%20%7C%20Exploring%20Web%2C%20Networking%20%26%20IoT&descAlign=50&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web_Development-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -15,6 +10,7 @@
   <img src="https://img.shields.io/badge/Networking-005F9E?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
+</div>
 ---
 
 ### 👨‍💻 About Me
