@@ -144,7 +144,8 @@ Designing an interactive application prototype to support business operations an
   <img height="165"
     src="https://github-stats-extended.vercel.app/api?username=qerrald&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats" />
-
+  
+<p align="center">
   <img height="165"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=qerrald&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages" />
