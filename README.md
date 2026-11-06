@@ -70,69 +70,48 @@ Designing an interactive application prototype to support business operations an
 
 ### 🛠️ Technologies I've Explored
 
-**Programming Languages**
+### 🧑‍💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,php,go,r&theme=dark" />
+</p>
 
-**Frontend Development**
+### 🌐 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,jquery,bootstrap,tailwind,react&theme=dark" />
+</p>
 
-**Backend & Database**
+### ⚙️ Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,sqlite,postgres&theme=dark" />
+</p>
 
-**UI/UX & Design**
+### 🎨 UI/UX & Design
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
+</p>
 
-**IoT & Embedded Systems**
+### 📡 IoT & Embedded Systems
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
-![Blynk](https://img.shields.io/badge/Blynk-23C48E?style=flat-square&logo=blynk&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+</p>
 
-Also explored: ESP8266, NodeMCU, CoAP, pH Sensor, NPK Sensor, Soil Moisture Sensor, Relay Module, and ThingsBoard.
+### 🔐 Networking & Security
 
-**Networking & Security**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,ubuntu,git,github,gitlab,vscode,visualstudio&theme=dark" />
+</p>
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Also explored: Hashcat, DNS, HTTP/HTTPS, and Wi-Fi Security.
+### 💻 Development Tools & Operating Systems
 
-**Development Tools & Operating Systems**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=flat-square&logo=codeblocks&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,gitlab,windows,apple&theme=dark" />
+</p>
 
 ---
 
