@@ -84,7 +84,7 @@ Designing an interactive application prototype to support business operations an
 
 **Tech Stack:** HTML, CSS, JavaScript
 
-[View Repository](https://github.com/qerrald/SimBara-Kebab-Ceria) • [Live Demo](https://qerrald.github.io/SimBara-Kebab-Ceria/)
+#### [View Repository](https://github.com/qerrald/SimBara-Kebab-Ceria)
 
 `Figma` `UI/UX Design` `Prototyping`
 
@@ -92,7 +92,7 @@ Designing an interactive application prototype to support business operations an
   <img src="./assets/animated-divider.gif" width="100%" />
 </p>
 
-### 🛠️ Technologies I've Explored
+## 🛠️ Technologies I've Explored
 
 ### 🧑‍💻 Programming Languages
 
