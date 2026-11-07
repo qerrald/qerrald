@@ -82,6 +82,10 @@ Developing a machine learning model using K-Nearest Neighbors (KNN) to classify 
 
 Designing an interactive application prototype to support business operations and transaction management, including order processing, queue management, payment tracking, and financial reporting.
 
+**Tech Stack:** HTML, CSS, JavaScript
+
+[View Repository](https://github.com/qerrald/simba-ra-kebab-ceria) • [Live Demo](https://qerrald.github.io/simba-ra-kebab-ceria/)
+
 `Figma` `UI/UX Design` `Prototyping`
 
 <p align="center">
