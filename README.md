@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gerrald-asher-baa7ab307/">
+  <a href="https://www.linkedin.com/in/gerrald-asher-kristiawan-baa7ab307/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/qerrald/">
@@ -188,7 +188,7 @@ Designing an interactive application prototype to support business operations an
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gerrald-asher-baa7ab307/">
+  <a href="https://www.linkedin.com/in/gerrald-asher-kristiawan-baa7ab307/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/qerrald/">
