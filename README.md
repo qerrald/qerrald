@@ -1,16 +1,15 @@
 <<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00D4FF&height=250&section=header&text=Gerrald%20Asher%20Kristiawan&fontSize=50&fontColor=FFFFFF&desc=Web%20Development%20%7C%20UI/UX%20Design%20%7C%20Internet%20Of%20Things&descSize=12&descAlignY=60&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00D4FF&height=250&section=header&text=Gerrald%20Asher%20Kristiawan&fontSize=50&fontColor=FFFFFF&desc=Web%20Development%20%7C%20Networking%20%7C%20Internet%20Of%20Things&descSize=12&descAlignY=60&fontAlignY=40" width="100%" />
 
 </div>
 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web_Development-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-00D9FF?style=for-the-badge&logo=figma&logoColor=black" />
-  <img src="https://img.shields.io/badge/Internet_of_Things-0077B6?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-005F9E?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Internet_of_Things-0077B6?style=for-the-badge&logo=arduino&logoColor=white" />  
 </p>
 
 </div>
@@ -39,7 +38,6 @@ const gerrald = {
     role: "Information Technology Student",
     interests: [
         "Web Development",
-        "UI/UX Design",
         "Networking",
         "Internet of Things"
     ],
