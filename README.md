@@ -30,7 +30,7 @@
   <img src="./assets/animated-divider.gif" width="100%" />
 </p>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const gerrald = {
@@ -56,7 +56,7 @@ Driven by curiosity and a passion for technology, I enjoy learning new things, e
   <img src="assets/animated-divider.gif" width="100%" alt="Animated Divider" />
 </p>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 **1. Hydroponic Nutrient Monitoring System 🪴**
 
