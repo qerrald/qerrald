@@ -64,9 +64,10 @@ Designing and developing a hydroponic nutrient monitoring system using a TDS sen
 
 `ESP32` `Arduino IDE` `TDS Sensor` `Relay Module` `Water Pump`
 
-**2. TK Telkom Mojokerto Student Monitoring 🏫**
+**2. TK Telkom Mojokerto Student Monitoring 🏫 (On Progress)**
 
 Developing a web-based application to help the school monitor students' development and manage learning portfolios. The platform supports structured student data management and information access for teachers, parents, and school administrators.
+#### [View Repository](https://github.com/qerrald/DIGIT-FRONTEND.git) 
 
 `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
